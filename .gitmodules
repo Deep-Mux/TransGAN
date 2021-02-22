@@ -1,0 +1,3 @@
+[submodule "TransGAN"]
+	path = TransGAN
+	url = https://github.com/VITA-Group/TransGAN
