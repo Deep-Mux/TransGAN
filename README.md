@@ -4,7 +4,7 @@ A quick guide on how to deploy TransGAN network on the cloud using DeepMux serve
 
 In this example we use use weights published by the authors to generate CelebA-like images.
 
-Full guide describing the deployment is availible at [Medium](https://medium.com/p/1537767e3295).
+Full guide describing the deployment is availible at [Medium](https://deepmux.medium.com/how-to-deploy-transgan-for-generating-celeba-like-pictures-1537767e3295).
 
 ## Credits
 
